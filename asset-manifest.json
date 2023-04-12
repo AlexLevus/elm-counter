@@ -1,0 +1,15 @@
+{
+  "main.css": "https://alexlevus.github.io/elm-counter/static/css/main.3bfcc7e4.chunk.css",
+  "main.js": "https://alexlevus.github.io/elm-counter/static/js/main.32e630a7.chunk.js",
+  "main.js.map": "https://alexlevus.github.io/elm-counter/static/js/main.32e630a7.chunk.js.map",
+  "runtime~main.js": "https://alexlevus.github.io/elm-counter/static/js/runtime~main.389f49b0.js",
+  "runtime~main.js.map": "https://alexlevus.github.io/elm-counter/static/js/runtime~main.389f49b0.js.map",
+  "vendors~main.js": "https://alexlevus.github.io/elm-counter/static/js/vendors~main.b17b319b.chunk.js",
+  "vendors~main.js.map": "https://alexlevus.github.io/elm-counter/static/js/vendors~main.b17b319b.chunk.js.map",
+  "./service-worker.js": "https://alexlevus.github.io/elm-counter/./service-worker.js",
+  "favicon.ico": "https://alexlevus.github.io/elm-counter/favicon.ico",
+  "index.html": "https://alexlevus.github.io/elm-counter/index.html",
+  "logo.svg": "https://alexlevus.github.io/elm-counter/logo.svg",
+  "manifest.json": "https://alexlevus.github.io/elm-counter/manifest.json",
+  "precache-manifest.611785db7f0650347444dc777421bc34.js": "https://alexlevus.github.io/elm-counter/precache-manifest.611785db7f0650347444dc777421bc34.js"
+}
